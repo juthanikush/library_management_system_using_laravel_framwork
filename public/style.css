@@ -1,0 +1,64 @@
+.contaner{
+	background-image: url('library.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+
+}
+nav{
+	overflow: hidden;
+}
+a{
+	color: rgb(226, 186, 27);
+	text-decoration: none;
+}
+.blank{
+	height: 100%;
+	width: 100%;
+	justify-content: center;
+	text-align: center;
+
+	background-color: #ffffff40;
+}
+.footer{
+	background-color: black;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.row{
+	margin-top: 15px;
+	padding: 20%;
+}
+.label{
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+}
+
+.hadding{
+	height: 100%;
+	width:100%;
+	padding: 15%;
+}
+form{
+	padding: 12%;
+}
+.form-control{
+	width: 40%!important;
+	align-items: center;
+	justify-content: center;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+.table{
+	border: 5px solid red;
+	padding:20%;
+}
+.show{
+	padding: 20%;
+}
+td{
+	color:rgb(255, 0, 0);
+}
